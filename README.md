@@ -1,4 +1,4 @@
-# Tut04-Group-E--group-s-code
+# Tut04_GroupE_group code
 ### Group Members
 - Yiqi Xu / yixu0759
 - Cyrus Wang / zwan0189
